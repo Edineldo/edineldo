@@ -5,6 +5,5 @@ Graduando em **Engenharia de Computação** pelo **Instituto Federal da Paraíba
 
 <hr>
 
-[![edineldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edineldo)](https://github.com/edineldo/github-readme-stats)
+[![edineldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edineldo)](https://github.com/edineldo/github-readme-stats?username=anuraghazra&show_icons=true&theme=radical)
 </hr>
-![edineldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edineldo&count_private=true)
